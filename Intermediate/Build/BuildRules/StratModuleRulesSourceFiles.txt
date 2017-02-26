@@ -1,0 +1,3 @@
+C:\Users\farve\OneDrive\Documents\Strat\Source\Strat\Strat.Build.cs
+C:\Users\farve\OneDrive\Documents\Strat\Source\Strat.Target.cs
+C:\Users\farve\OneDrive\Documents\Strat\Source\StratEditor.Target.cs

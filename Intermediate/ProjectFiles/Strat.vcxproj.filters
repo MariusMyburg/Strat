@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\Strat.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{6F440C3B-EB42-4210-A144-390C48A12262}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Strat.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\StratEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{66391D12-1CBA-4D4C-8376-C9B1DCABD4D5}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\Strat">
+			<UniqueIdentifier>{D4DC20E5-FD10-484B-A8BC-5E82359122D7}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Strat\Strat.Build.cs">
+			<Filter>Source\Strat</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\Strat\Strat.cpp">
+			<Filter>Source\Strat</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Strat\Strat.h">
+			<Filter>Source\Strat</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Strat\StratGameInstance.cpp">
+			<Filter>Source\Strat</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Strat\StratGameInstance.h">
+			<Filter>Source\Strat</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Strat\StratGameModeBase.cpp">
+			<Filter>Source\Strat</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Strat\StratGameModeBase.h">
+			<Filter>Source\Strat</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
