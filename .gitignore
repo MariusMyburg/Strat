@@ -259,3 +259,8 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+Saved/Logs/*
+Intermediate/Config/*
+Saved/*
+Intermediate/Build/*
+Intermediate/*
